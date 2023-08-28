@@ -1,0 +1,14 @@
+.nav-container {
+  background: #f5ebeb;
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px 0px;
+  color: #fff;
+}
+
+.nav-item {
+  margin: 0px 40px;
+  text-decoration: none;
+}
+
+
